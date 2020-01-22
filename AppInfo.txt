@@ -1,0 +1,14 @@
+App is available in http://tmbackend.azurewebsites.net
+
+How use App?
+
+http://tmbackend.azurewebsites.net/api/courses/5?name=<Name>&page=<Page> 
+
+Name: Name of courses
+Page: If, results are more than 24, app split in more 1 page, 
+for view first page: put 0 
+for view second page: put 1 
+
+Page: If, results are not more than 24,
+for 0: View results
+for 1: Emphty
