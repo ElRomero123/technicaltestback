@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="bdtmEntities-Web.config Connection String" description="bdtmEntities Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="metadata=res://*/Database.BDCourses.csdl|res://*/Database.BDCourses.ssdl|res://*/Database.BDCourses.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=datatest.database.windows.net;initial catalog=bdtm;user id=TMCondor;password=TechnicalTest123;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Proyectos\\TechnicalTest\\back\\back\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='bdtmEntities']/@connectionString" />
+  </parameter>
+</parameters>
