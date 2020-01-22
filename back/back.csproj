@@ -234,9 +234,9 @@
     <Content Include="Database\BDCourses.edmx.diagram">
       <DependentUpon>BDCourses.edmx</DependentUpon>
     </Content>
-    <None Include="Properties\PublishProfiles\tmendpoint - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\tmendpoint - ReadOnly - FTP.pubxml" />
-    <None Include="Properties\PublishProfiles\tmendpoint - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\tmbackend - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\tmbackend - ReadOnly - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\tmbackend - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
