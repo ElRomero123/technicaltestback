@@ -1,0 +1,5 @@
+Login
+
+Server  : datatest.database.windows.net
+User    : TMCondor
+Password: TechnicalTest123
